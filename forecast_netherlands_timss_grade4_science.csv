@@ -1,0 +1,6 @@
+indicator,population,source,entity,step,year_label,timesfm,q10,q90,linear,naive
+science,grade 4,TIMSS,Netherlands,1,2027,518.7023,512.2495,527.18945,515.1557377049179,517.0
+science,grade 4,TIMSS,Netherlands,2,2031,518.91797,511.61255,528.5648,513.2622950819672,517.0
+science,grade 4,TIMSS,Netherlands,3,2035,518.95,510.96976,529.35205,511.36885245901647,517.0
+science,grade 4,TIMSS,Netherlands,4,2039,518.8763,510.28894,529.9895,509.47540983606575,517.0
+science,grade 4,TIMSS,Netherlands,5,2043,519.2878,510.26245,530.98083,507.58196721311504,517.0

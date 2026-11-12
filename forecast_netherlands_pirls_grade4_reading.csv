@@ -1,0 +1,5 @@
+indicator,population,source,entity,step,year_label,timesfm,q10,q90,linear,naive
+reading,grade 4,PIRLS,Netherlands,1,2026,535.6749,518.4947,551.9988,526.9999999999995,527.0
+reading,grade 4,PIRLS,Netherlands,2,2031,535.2845,514.83057,553.2366,521.3999999999992,527.0
+reading,grade 4,PIRLS,Netherlands,3,2036,535.86847,513.8267,554.3785,515.7999999999993,527.0
+reading,grade 4,PIRLS,Netherlands,4,2041,538.7061,514.6196,557.7093,510.1999999999989,527.0

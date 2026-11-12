@@ -1,0 +1,8 @@
+﻿horizon_steps,method,series_cells,series_cells_used,mean_MAE_over_series_SD,forecast_count_weighted_mean
+1,linear,6,PIRLS-reading;PISA-math;PISA-reading;PISA-science;TIMSS-math;TIMSS-science,0.7841450000000000,0.7009990000000000
+1,naive,6,PIRLS-reading;PISA-math;PISA-reading;PISA-science;TIMSS-math;TIMSS-science,0.9365860000000000,0.8129760000000000
+1,timesfm,6,PIRLS-reading;PISA-math;PISA-reading;PISA-science;TIMSS-math;TIMSS-science,1.1242090000000000,1.0146230000000001
+2,linear,5,PISA-math;PISA-reading;PISA-science;TIMSS-math;TIMSS-science,0.9989490000000000,0.9968720000000000
+2,naive,5,PISA-math;PISA-reading;PISA-science;TIMSS-math;TIMSS-science,1.0986810000000000,1.1200440000000000
+2,timesfm,5,PISA-math;PISA-reading;PISA-science;TIMSS-math;TIMSS-science,1.2588560000000000,1.280125000000000
+,,,,,

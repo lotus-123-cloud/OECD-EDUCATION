@@ -1,0 +1,10 @@
+entity,source,population,indicator,n_obs,first_year,last_year,last_value
+Netherlands,PIRLS,grade 4,reading,5,2001,2021,527.0
+Netherlands,PISA,age 15,math,8,2003,2025,483.0
+Netherlands,PISA,age 15,reading,8,2003,2025,441.0
+Netherlands,PISA,age 15,science,7,2006,2025,485.0
+Netherlands,TIMSS,grade 4,math,7,1995,2023,537.0
+Netherlands,TIMSS,grade 4,science,7,1995,2023,517.0
+OECD average,PISA,age 15,math,3,2018,2025,463.0
+OECD average,PISA,age 15,reading,2,2022,2025,461.0
+OECD average,PISA,age 15,science,2,2022,2025,482.0

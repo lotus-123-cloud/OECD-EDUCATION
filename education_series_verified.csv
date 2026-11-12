@@ -1,0 +1,50 @@
+entity,source,population,indicator,year,value,se,note
+Netherlands,PISA,age 15,math,2003,537.823,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2006,530.654,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2009,525.836,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2012,522.972,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2015,512.253,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2018,519.231,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2022,492.676,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,math,2025,483,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2003,513.119,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2006,506.747,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2009,508.404,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2012,511.23,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2015,502.959,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2018,484.784,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2022,459.243,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,reading,2025,441,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS
+Netherlands,PISA,age 15,science,2006,524.862,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+Netherlands,PISA,age 15,science,2009,522.218,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+Netherlands,PISA,age 15,science,2012,522.056,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+Netherlands,PISA,age 15,science,2015,508.575,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+Netherlands,PISA,age 15,science,2018,503.384,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+Netherlands,PISA,age 15,science,2022,488.317,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+Netherlands,PISA,age 15,science,2025,485,,OECD data via TheGlobalEconomy.com; 2022 and 2025 cross-checked with OECD Education GPS; comparable science series starts 2006
+OECD average,PISA,age 15,math,2018,489,,"OECD averages; sparse, not a full series"
+OECD average,PISA,age 15,math,2022,472,,"OECD averages; sparse, not a full series"
+OECD average,PISA,age 15,math,2025,463,,"OECD averages; sparse, not a full series"
+OECD average,PISA,age 15,reading,2022,476,,"OECD averages; sparse, not a full series"
+OECD average,PISA,age 15,reading,2025,461,,"OECD averages; sparse, not a full series"
+OECD average,PISA,age 15,science,2022,485,,"OECD averages; sparse, not a full series"
+OECD average,PISA,age 15,science,2025,482,,"OECD averages; sparse, not a full series"
+Netherlands,PIRLS,grade 4,reading,2001,554,2.4,PIRLS 2021 Exhibit 2.1.2; sampling flag † (Appendix A.5)
+Netherlands,PIRLS,grade 4,reading,2006,547,1.5,PIRLS 2021 Exhibit 2.1.2; sampling flag † (Appendix A.5)
+Netherlands,PIRLS,grade 4,reading,2011,546,2.0,PIRLS 2021 Exhibit 2.1.2; sampling flag † (Appendix A.5)
+Netherlands,PIRLS,grade 4,reading,2016,545,1.7,PIRLS 2021 Exhibit 2.1.2; sampling flag † (Appendix A.5)
+Netherlands,PIRLS,grade 4,reading,2021,527,2.5,PIRLS 2021 Exhibit 2.1.2; sampling flag ≡ (Appendix A.5)
+Netherlands,TIMSS,grade 4,math,1995,549,3.0,TIMSS 2023 Exhibit 1.1.10; sampling flag ≡ (Appendix B.5)
+Netherlands,TIMSS,grade 4,math,2003,540,2.2,TIMSS 2023 Exhibit 1.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,math,2007,535,2.1,TIMSS 2023 Exhibit 1.1.10; sampling flag ‡ (Appendix B.5)
+Netherlands,TIMSS,grade 4,math,2011,540,1.6,TIMSS 2023 Exhibit 1.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,math,2015,530,1.7,TIMSS 2023 Exhibit 1.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,math,2019,538,2.2,TIMSS 2023 Exhibit 1.1.10; sampling flag ≡ (Appendix B.5)
+Netherlands,TIMSS,grade 4,math,2023,537,2.0,TIMSS 2023 Exhibit 1.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,1995,530,3.2,TIMSS 2023 Exhibit 2.1.10; sampling flag ≡ (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,2003,525,2.0,TIMSS 2023 Exhibit 2.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,2007,523,2.6,TIMSS 2023 Exhibit 2.1.10; sampling flag ‡ (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,2011,531,2.2,TIMSS 2023 Exhibit 2.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,2015,517,2.7,TIMSS 2023 Exhibit 2.1.10; sampling flag † (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,2019,518,2.9,TIMSS 2023 Exhibit 2.1.10; sampling flag ≡ (Appendix B.5)
+Netherlands,TIMSS,grade 4,science,2023,517,2.9,TIMSS 2023 Exhibit 2.1.10; sampling flag † (Appendix B.5)
